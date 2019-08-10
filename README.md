@@ -1,6 +1,6 @@
 # LXQt 日本語の翻訳ファイル
 
-LXQt 0.14 の日本語表示(翻訳)に関連する ファイルの セットです。  
+LXQt デスクトップ環境 の日本語表示(翻訳)に関連する ファイルの セットです。  
 LXQt関連の アプリケーションの日本語ファイルも 含まれています。
 LXImage-Qt, LXQt-Archiver, Qterminal, Qps, ScreenGrab, FeatherNotes 等。
 
@@ -54,7 +54,8 @@ LXQt自体については、英語表記が ほぼなくなりました。
 多くの人の ご意見で LXQt を より良いものにしたいと思っています。
 ご意見ご感想ご希望など、ご遠慮なくお寄せ下さい。  
 
-https://github.com/ito32bit/lxqt-ja/wiki  
-https://github.com/ito32bit/lxqt-ja
+Wiki: https://github.com/ito32bit/lxqt-ja/wiki  
+ダウンロード: https://github.com/ito32bit/lxqt-ja  
+ご意見ご感想など: https://github.com/ito32bit/lxqt-ja/issues  
 
 Masamichi Ito (イトウ マサミチ)
