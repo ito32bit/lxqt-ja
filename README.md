@@ -19,7 +19,7 @@ zipファイルを ダウンロードした場合、展開して下さい。
 	/usr/share/desktop-directories
 	/etc/xdg/autostart
 
-Ubuntu 18.04, Lubuntu 19.04, Fedora 30 で確認したところ、このディレクトリでした。
+Ubuntu 18.04, Lubuntu 19.04, Fedora 30 で確認したところ、このディレクトリ構成でした。
 
 #### スクリプトの実行
 
@@ -51,11 +51,10 @@ LXQt自体については、英語表記が ほぼなくなりました。
 
 ## あとがき
 
-**LXQtデスクトップ環境の日本語訳**  
-https://ito32bit.github.io/lxqt-japanese/  
-https://github.com/ito32bit/lxqt-ja
-
-ご意見ご感想ご希望など、ご遠慮なくお寄せ下さい。  
 多くの人の ご意見で LXQt を より良いものにしたいと思っています。
+ご意見ご感想ご希望など、ご遠慮なくお寄せ下さい。  
+
+https://github.com/ito32bit/lxqt-ja/wiki  
+https://github.com/ito32bit/lxqt-ja
 
 Masamichi Ito (イトウ マサミチ)
