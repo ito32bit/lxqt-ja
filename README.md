@@ -57,5 +57,6 @@ LXQt自体については、英語表記が ほぼなくなりました。
 Wiki: https://github.com/ito32bit/lxqt-ja/wiki  
 ダウンロード: https://github.com/ito32bit/lxqt-ja  
 ご意見ご感想など: https://github.com/ito32bit/lxqt-ja/issues  
+※アドレスに「32bit」の文字がありますが、CPUの *32bit専用* を表しているのでは ありません。(ユーザー名です)
 
 Masamichi Ito (イトウ マサミチ)
