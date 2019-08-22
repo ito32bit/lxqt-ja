@@ -1,6 +1,8 @@
 # LXQt 日本語の翻訳ファイル
 
 LXQt デスクトップ環境 の日本語表示(翻訳)に関連する ファイルの セットです。  
+約120個のファイルが入っています。
+
 LXQt関連の アプリケーションの日本語ファイルも 含まれています。
 LXImage-Qt, LXQt-Archiver, Qterminal, Qps, ScreenGrab, 
 FeatherPad, FeatherNotes 等。
@@ -24,7 +26,7 @@ Ubuntu 18.04, Lubuntu 19.04, Fedora 30 で確認したところ、このディ�
 
 #### スクリプトの実行
 
-- 端末で スクリプトを実行して、全てのファイルを コピーします。
+- 端末で スクリプトを実行して、全てのファイル(約120個)を コピーします。
 
 		sudo ./copy-all-japanese.sh
 
