@@ -5,7 +5,7 @@ LXQt デスクトップ環境 の日本語表示(翻訳)に関連する ファ�
 
 LXQt関連の アプリケーションの日本語ファイルも 含まれています。
 LXImage-Qt, LXQt-Archiver, Qterminal, Qps, ScreenGrab, 
-FeatherPad, FeatherNotes 等。
+FeatherPad, FeatherNotes, Kvantum 等。
 
 ご自分の ハードディスクに コピーすると 日本語表示が新しくなります。
 
