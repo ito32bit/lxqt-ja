@@ -67,5 +67,7 @@ cp -v ./lxqt-qtermwidget-ja.qm $ud/qtermwidget5/translations/qtermwidget_ja.qm
 cp -v ./lxqt-screengrab-ja.qm $ud/screengrab/translations/screengrab_ja.qm
 cp -v ./tsujan-feathernotes-ja.qm $ud/feathernotes/translations/feathernotes_ja.qm
 cp -v ./tsujan-featherpad-ja.qm $ud/featherpad/translations/featherpad_ja.qm
+cp -v ./tsujan-kvantum-manager-ja.qm $ud/kvantummanager/translations/kvantummanager_ja.qm
+cp -v ./tsujan-kvantum-preview-ja.qm $ud/kvantumpreview/translations/kvantumpreview_ja.qm
 
 echo "# END"
