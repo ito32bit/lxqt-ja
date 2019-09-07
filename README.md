@@ -3,7 +3,8 @@
 LXQt デスクトップ環境 の日本語表示(翻訳)に関連する ファイルの セットです。  
 約110個のファイルが入っています。
 
-LXQt関連の アプリケーションの日本語ファイルも 含まれています。
+LXQt 関連の アプリケーションの日本語ファイルも 含まれています。  
+PCManFM-Qt, ComptonConf, ObConf,
 LXImage-Qt, LXQt-Archiver, Qterminal, Qps, ScreenGrab, 
 FeatherPad, FeatherNotes, Kvantum 等。
 
