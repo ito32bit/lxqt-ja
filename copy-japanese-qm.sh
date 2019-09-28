@@ -51,6 +51,7 @@ cp -v ./lxqt-lxqt-panel-plugin-showdesktop-ja.qm $ud/lxqt/translations/lxqt-pane
 cp -v ./lxqt-lxqt-panel-plugin-spacer-ja.qm $ud/lxqt/translations/lxqt-panel/spacer/spacer_ja.qm
 cp -v ./lxqt-lxqt-panel-plugin-sysstat-ja.qm $ud/lxqt/translations/lxqt-panel/sysstat/sysstat_ja.qm
 cp -v ./lxqt-lxqt-panel-plugin-taskbar-ja.qm $ud/lxqt/translations/lxqt-panel/taskbar/taskbar_ja.qm
+cp -v ./lxqt-lxqt-panel-plugin-tray-ja.qm  $ud/lxqt/translations/lxqt-panel/tray/tray_ja.qm
 cp -v ./lxqt-lxqt-panel-plugin-volume-ja.qm $ud/lxqt/translations/lxqt-panel/volume/volume_ja.qm
 cp -v ./lxqt-lxqt-panel-plugin-worldclock-ja.qm $ud/lxqt/translations/lxqt-panel/worldclock/worldclock_ja.qm
 cp -v ./lxqt-lxqt-policykit-agent-ja.qm $ud/lxqt/translations/lxqt-policykit-agent/lxqt-policykit-agent_ja.qm
