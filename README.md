@@ -3,9 +3,11 @@
 LXQt デスクトップ環境 の日本語表示(翻訳)に関連する ファイルの セットです。  
 約110個のファイルが入っています。
 
+**注意： このファイルセットは LXQt 0.14用です。2020年4月にリリースされた LXQt 0.15には必要ありません。**
+
 LXQt 関連の アプリケーションの日本語ファイルも 含まれています。  
-PCManFM-Qt, ComptonConf, ObConf,
-LXImage-Qt, LXQt-Archiver, Qterminal, Qps, ScreenGrab, 
+PCManFM-Qt, ComptonConf, ObConf, LXImage-Qt, Qterminal, 
+LXQt-Archiver, Qps, ScreenGrab, 
 FeatherPad, FeatherNotes, Kvantum 等。
 
 ご自分の ハードディスクに コピーすると 日本語表示が新しくなります。
@@ -49,7 +51,13 @@ Ubuntu 18.04, Lubuntu 19.04, Fedora 30 で確認したところ、このディ�
 ### 注意
 
 スクリプトの実行には root権限が必要です。Ubuntu, Fedora 等では 上記のように `sudo` で実行できます。  
-ファイルを 元に戻す方法(アンインストール等)がありませんので、その点について事前に考えてから スクリプトを実行して下さい。
+ファイルを 元に戻す方法(アンインストール等)は含まていません。
+LXQtやアプリケーションを再インストールするとで 元に戻せます。
+
+LXQt-Archiver, Qps, ScreenGrab, 
+FeatherPad, FeatherNotes, Kvantum 等は、LXQt自体とは別にリリースされているため、既に日本語化されています。  
+そのためスクリプト(copy-japanese-qm.sh)では、各日本語ファイルをコピーしません。
+必要な場合は、スクリプトの中のコメントされている行頭の # を削除して下さい。
 
 qmファイルは、スクリプトを使用せずに、ファイルマネージャー等で コピーすることも可能です。  
 コピーの際に ファイル名の変更が必要です。
@@ -69,11 +77,11 @@ LXQt自体については、英語表記が ほぼなくなりました。
 
 ## あとがき
 
-インストールが簡単で翻訳ファイルが自動で更新される「Snap版LXQt言語パック」もあります。  
-Snap版LXQt言語パック: https://ito32bit.github.io/blog/2020/lxqt-l10n-snap/
-
 多くの人の ご意見で LXQt を より良いものにしたいと思っています。
 ご意見ご感想ご希望など、ご遠慮なくお寄せ下さい。  
+
+インストールが簡単で翻訳ファイルが自動で更新される「Snap版LXQt言語パック」もあります。  
+Snap版LXQt言語パック: https://ito32bit.github.io/blog/2020/lxqt-l10n-snap/
 
 Wiki: https://github.com/ito32bit/lxqt-ja/wiki  
 ダウンロード: https://github.com/ito32bit/lxqt-ja  

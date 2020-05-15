@@ -20,7 +20,6 @@ cp -v ./lxqt-lximage-qt-ja.qm $ud/lximage-qt/translations/lximage-qt_ja.qm
 cp -v ./lxqt-lxqt-about-ja.qm $ud/lxqt/translations/lxqt-about/lxqt-about_ja.qm
 cp -v ./lxqt-lxqt-admin-time-ja.qm $ud/lxqt/translations/lxqt-admin-time/lxqt-admin-time_ja.qm
 cp -v ./lxqt-lxqt-admin-user-ja.qm $ud/lxqt/translations/lxqt-admin-user/lxqt-admin-user_ja.qm
-cp -v ./lxqt-lxqt-archiver-ja.qm $ud/lxqt-archiver/translations/lxqt-archiver_ja.qm
 cp -v ./lxqt-lxqt-config-appearance-ja.qm $ud/lxqt/translations/lxqt-config-appearance/lxqt-config-appearance_ja.qm
 cp -v ./lxqt-lxqt-config-brightness-ja.qm $ud/lxqt/translations/lxqt-config-brightness/lxqt-config-brightness_ja.qm
 cp -v ./lxqt-lxqt-config-cursor-ja.qm $ud/lxqt/translations/lxqt-config-cursor/lxqt-config-cursor_ja.qm
@@ -62,13 +61,15 @@ cp -v ./lxqt-lxqt-sudo-ja.qm $ud/lxqt/translations/lxqt-sudo/lxqt-sudo_ja.qm
 cp -v ./lxqt-obconf-qt-ja.qm $ud/obconf-qt/translations/obconf-qt_ja.qm
 cp -v ./lxqt-pavucontrol-qt-ja.qm $ud/pavucontrol-qt/translations/pavucontrol-qt_ja.qm
 cp -v ./lxqt-pcmanfm-qt-ja.qm $ud/pcmanfm-qt/translations/pcmanfm-qt_ja.qm
-cp -v ./lxqt-qps-ja.qm $ud/qps/translations/qps_ja.qm
 cp -v ./lxqt-qterminal-ja.qm $ud/qterminal/translations/qterminal_ja.qm
 cp -v ./lxqt-qtermwidget-ja.qm $ud/qtermwidget5/translations/qtermwidget_ja.qm
-cp -v ./lxqt-screengrab-ja.qm $ud/screengrab/translations/screengrab_ja.qm
-cp -v ./tsujan-feathernotes-ja.qm $ud/feathernotes/translations/feathernotes_ja.qm
-cp -v ./tsujan-featherpad-ja.qm $ud/featherpad/translations/featherpad_ja.qm
-cp -v ./tsujan-kvantum-manager-ja.qm $ud/kvantummanager/translations/kvantummanager_ja.qm
-cp -v ./tsujan-kvantum-preview-ja.qm $ud/kvantumpreview/translations/kvantumpreview_ja.qm
+
+#cp -v ./lxqt-lxqt-archiver-ja.qm $ud/lxqt-archiver/translations/lxqt-archiver_ja.qm
+#cp -v ./lxqt-qps-ja.qm $ud/qps/translations/qps_ja.qm
+#cp -v ./lxqt-screengrab-ja.qm $ud/screengrab/translations/screengrab_ja.qm
+#cp -v ./tsujan-feathernotes-ja.qm $ud/feathernotes/translations/feathernotes_ja.qm
+#cp -v ./tsujan-featherpad-ja.qm $ud/featherpad/translations/featherpad_ja.qm
+#cp -v ./tsujan-kvantum-manager-ja.qm $ud/kvantummanager/translations/kvantummanager_ja.qm
+#cp -v ./tsujan-kvantum-preview-ja.qm $ud/kvantumpreview/translations/kvantumpreview_ja.qm
 
 echo "# END"

@@ -56,6 +56,7 @@ get() {
 }
 
 get ja-applications			$dir_app/applications
+#get ja-applications-others			$dir_app/applications
 get ja-desktop-directories	$dir_app/desktop-directories
 get ja-lxqt-panel			$dir_app/lxqt/lxqt-panel
 get ja-autostart			/etc/xdg/autostart # セッションの設定 → [LXQtモジュール]と[自動起動]のアプリの名称
