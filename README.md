@@ -85,7 +85,7 @@ Snap版LXQt言語パック: https://ito32bit.github.io/blog/2020/lxqt-l10n-snap/
 
 Wiki: https://github.com/ito32bit/lxqt-ja/wiki  
 ダウンロード: https://github.com/ito32bit/lxqt-ja  
-ご意見ご感想など: https://github.com/ito32bit/lxqt-ja/issues  
+ご意見ご感想など: https://github.com/ito32bit/lxqt-ja/discussions  
 ブログ: https://ito32bit.github.io/blog/  
 ※アドレスに「32bit」の文字がありますが、CPUの *32bit専用* を表しているのでは ありません。(ユーザー名です)
 
